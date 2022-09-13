@@ -1,5 +1,5 @@
 import React from 'react';
 import './Header.css';
 export default function Header() {
-  return <header>React Zodiac App</header>;
+  return <header>Relinquish Yourself to the Cat Wisdom</header>;
 }
